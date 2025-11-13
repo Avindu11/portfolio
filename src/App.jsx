@@ -626,7 +626,7 @@ const ProjectsSection = () => {
   const projects = [
     {
       title: "Modern E-commerce SPA",
-      description: "A lightning-fast Single-Page Application (SPA) built for a modern shopping experience. The React frontend provides an instant, app-like feel, while the backend runs on a secure and scalable Java Spring Boot REST API. Uses Hibernate for robust data management and MySQL for storage.",
+      description: "A lightning-fast Single-Page Application (SPA) built for a modern shopping experience. The React frontend provides an instant, app-like feel, while the backend runs on a secure and scalable Java EE REST API. Uses Hibernate for robust data management and MySQL for storage.",
       github: "https://github.com/Avindu11", // Update link
       demo: "https://youtu.be/AQWz9ntBiJg", // Update link
       imageUrl: "https://res.cloudinary.com/do9mg0abd/image/upload/v1763026820/agro-cart_zwepm2.png"
