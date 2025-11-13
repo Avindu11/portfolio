@@ -468,7 +468,7 @@ const HeroSection = () => {
           <HeroBackgroundLines />
           {/* Add your photo here */}
           <img 
-            src="src/assets/me.JPG" 
+            src="https://res.cloudinary.com/do9mg0abd/image/upload/v1763026820/me_o9k44c.jpg" 
             alt="Avindu Vidusanka"
             className="w-64 h-64 sm:w-80 sm:h-80 md:w-96 md:h-96 rounded-full object-cover border-4 border-blue-500/30 shadow-2xl shadow-blue-500/20 relative z-10"
           />
@@ -629,14 +629,14 @@ const ProjectsSection = () => {
       description: "A lightning-fast Single-Page Application (SPA) built for a modern shopping experience. The React frontend provides an instant, app-like feel, while the backend runs on a secure and scalable Java Spring Boot REST API. Uses Hibernate for robust data management and MySQL for storage.",
       github: "https://github.com/Avindu11", // Update link
       demo: "https://youtu.be/AQWz9ntBiJg", // Update link
-      imageUrl: "src/assets/agro-cart.png"
+      imageUrl: "https://res.cloudinary.com/do9mg0abd/image/upload/v1763026820/agro-cart_zwepm2.png"
     },
     {
       title: "Dynamic E-commerce App (PHP)",
       description: "A complete, from-scratch e-commerce solution built with server-side PHP and a MySQL database. Features a full content management system (CMS) for products, secure user authentication, and a custom shopping cart and checkout process.",
       github: "https://github.com/Avindu11", // Update link
       demo: null, // No demo link
-      imageUrl: "src/assets/glamours.png"
+      imageUrl: "https://res.cloudinary.com/do9mg0abd/image/upload/v1763026820/glamours_tsrukn.png"
     }
   ];
 
